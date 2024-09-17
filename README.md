@@ -2,9 +2,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=44&duration=4000&pause=1000&color=70A5FD&center=true&random=false&width=800&height=85&lines=Ol%C3%A1%2C+sou+o+Luis!!%F0%9F%91%8B;Bem-vindo+ao+meu+GitHub!!%F0%9F%98%83" alt="Typing SVG" /></a>
 </div>
 
-<h2 align=center>⚒️ Tecnologias que estou desenvolvendo ⚒️</h2>
+<h2 align=center>💻 Tecnologias e Linguagens em Uso 💻</h2>
 
-<div align=center style="display: inline_block"><br>
+<div align=center style="display: inline-block"><br>
   <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
